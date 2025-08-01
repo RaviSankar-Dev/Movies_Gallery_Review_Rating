@@ -15,7 +15,7 @@ Movie Gallery is a web-based application that lets users browse, search, and rev
 
 ## Screenshot:
 
-![1](movies and gallery.png)
+![1](https://github.com/RaviSankar-Dev/Movies_Gallery_Review_Rating/blob/b760b652b681235342bc4a31582727342123aba9/movies%20and%20gallery.png)
 
 ## Installation
 
