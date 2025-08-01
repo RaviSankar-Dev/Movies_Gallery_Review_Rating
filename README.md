@@ -15,6 +15,7 @@ Movie Gallery is a web-based application that lets users browse, search, and rev
 
 ## Screenshot:
 
+![1](movies and gallery.png)
 
 ## Installation
 
